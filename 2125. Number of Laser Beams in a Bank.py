@@ -1,3 +1,4 @@
+from ast import List
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
         # # method - 1, simple iterate
